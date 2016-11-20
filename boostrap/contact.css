@@ -1,0 +1,61 @@
+body { padding-bottom: 70px; 
+	background-image:url("./Assets/background.png");
+	font-family: 'Arial';
+	color: #777;
+	}
+
+header{
+	background-color:white;
+	height:80px;
+	margin:5px;
+	font-family: 'Georgia';
+	font-size:18px;
+}
+h2{
+	font-size:18px;
+	font-weight:bold;
+}
+.navbar-default{
+	background-color:gray;
+}
+
+.github{
+	width:50px;
+	height:50px;
+
+}
+.linkedin{
+	width:50px;
+	height:50px;
+
+}
+.overflow{
+	width:50px;
+	height:50px;
+
+}
+.navbar{
+	color:white;
+	text-align:center;
+}
+.box{
+	width:700px;
+	height:625px;
+	margin:60px;
+	background-color:white;
+	border: 1px solid #ddd;
+	color:#4aaaa5;
+	clear:left;
+
+}
+.box1{
+	width:270px;
+	height:150px;
+	margin:60px;
+	background-color:white;
+	border: 1px solid #ddd;
+	color:#4aaaa5;
+	float:right;
+
+
+}

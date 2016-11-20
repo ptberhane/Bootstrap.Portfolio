@@ -1,0 +1,41 @@
+body { padding-bottom: 70px; 
+	background-image:url("./Assets/background.png");
+	font-size: 18px;
+	font-family: 'Georgia';
+	color: #777;
+	}
+
+header{
+	background-color:white;
+	height:80px;
+	margin:5px;
+}
+.navbar-default{
+	background-color:gray;
+}
+
+.navbar{
+	color:white;
+	text-align:center;
+}
+.box{
+	width:700px;
+	height:625px;
+	margin:60px;
+	background-color:white;
+	border: 1px solid #ddd;
+	color:#4aaaa5;
+	clear:left;
+	font-family: 'Arial';
+}
+.box1{
+	width:270px;
+	height:270px;
+	margin:60px;
+	background-color:white;
+	border: 1px solid #ddd;
+	color:#4aaaa5;
+	float:right;
+	font-family: 'Arial';
+
+}
